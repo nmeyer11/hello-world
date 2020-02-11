@@ -1,2 +1,2 @@
 # hello-world
-**This is my introduction to the world**
+**This is my intro to the world**
